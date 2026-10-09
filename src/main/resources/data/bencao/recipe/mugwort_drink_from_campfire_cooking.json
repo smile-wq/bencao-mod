@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "bencao:raw_mugwort_drink"
+  },
+  "result": {
+    "id": "bencao:mugwort_drink"
+  },
+  "experience": 0.1,
+  "cookingtime": 600
+}

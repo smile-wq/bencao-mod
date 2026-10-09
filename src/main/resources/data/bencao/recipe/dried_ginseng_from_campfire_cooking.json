@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "bencao:ginseng"
+  },
+  "result": {
+    "id": "bencao:dried_ginseng"
+  },
+  "experience": 0.1,
+  "cookingtime": 600
+}

@@ -1,0 +1,23 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="bencao"
+version="0.1.0"
+displayName="本草 · Bencao"
+description='''A herbalism survival prototype: gather seeds, cultivate herbs, dry and grind them, then brew herbal drinks.'''
+
+[[dependencies.bencao]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.249,21.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.bencao]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1]"
+ordering="NONE"
+side="BOTH"

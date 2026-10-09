@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bencao:dried_ginseng"
+    },
+    {
+      "item": "bencao:mortar"
+    }
+  ],
+  "result": {
+    "id": "bencao:ginseng_powder",
+    "count": 1
+  }
+}

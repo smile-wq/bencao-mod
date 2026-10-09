@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "bencao:mint_crop",
+    "bencao:mugwort_crop",
+    "bencao:ginseng_crop"
+  ]
+}

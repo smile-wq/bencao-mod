@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bencao:dried_mint"
+    },
+    {
+      "item": "bencao:mortar"
+    }
+  ],
+  "result": {
+    "id": "bencao:mint_powder",
+    "count": 1
+  }
+}

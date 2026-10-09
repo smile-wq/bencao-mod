@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "bencao:dried_mugwort"
+    },
+    {
+      "item": "bencao:mortar"
+    }
+  ],
+  "result": {
+    "id": "bencao:mugwort_powder",
+    "count": 1
+  }
+}

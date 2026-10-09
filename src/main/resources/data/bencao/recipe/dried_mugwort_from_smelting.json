@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": {
+    "item": "bencao:mugwort"
+  },
+  "result": {
+    "id": "bencao:dried_mugwort"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}
